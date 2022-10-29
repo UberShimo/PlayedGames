@@ -5,84 +5,91 @@ X: Dropped
 4: Oh baby! 	(Touhou: Luna nights)
 5: Damn...	(Furi)
 
-%  = 100% collected, DLC not included
-%! = Nothing more to be done. Game is completely milked.
+! = Done for real
 
 
 5:
-Dark Souls %!
+Dark Souls !
 Zelda: Ocarina of Time
-Hollow knight %
-Dark Souls 3 %!
-Castlevania: Aria of Sorrow %!
-Bloodborne %!
+Hollow knight
+The messenger !
 Shovel knight: Tresure trove
-The messenger %
 Hyperlight drifter
-DUSK %!
-Bloodstained: CotM %!
-Aggelos %!
-Castlevania: Dawn of Sorrow %!
+DUSK !
+Bloodstained: CotM !
+Aggelos !
+Everhood
+--- TOP 10 ---
+Castlevania: Aria of Sorrow !
+Castlevania: Dawn of Sorrow !
+Bloodborne !
 Devil may cry 3
 Hotline miami
 Undertale
+Dark Souls 3 !
 Furi
 
 4:
 My friend pedro
 Sekiro
-Everhood
-Castlevania: Portrait of ruin
-Gato roboto
-Demons Souls
+Momodora: Reverie under the Moonlight
 Katana Zero
+Elden ring
+Gato roboto !
+Castlevania: Portrait of ruin
+Demons Souls
 Blasphemous
-Devil may cry 5
 Resident Evil 2 Remake
 Bloodstained: RotN
+Ittle dew
 Cave story
 Castlevania: Order of ecclesia
+Ender lilies !
 Celeste
-Ender lilies %!
+Devil may cry 5
+Minit!
 Amid evil
 Valfaris
-Ittle dew
 Zelda: a Link to the past
 Cuphead
-Mario 64 %
-Momodora: Reverie under the Moonlight
+Mario 64 !
 The Treehouse Man
 Portal 2
+Neon white
+ElecHead !
 Banjo kazooie
 Zelda: Majoras mask
 Castlevania: Symphony of the night
-Minit (in fast mode)
 Fez
-A hat in time
 Tamashii
-Mario galaxy %
+Resident Evil 4 !
+Mario galaxy !
 Mario galaxy 2
+Darkwood
 Distance
 Ape out
 Doom (2016)
-Resident Evil 4 %
 Zelda: Breath of the wild
 Dead space
+Super Mario Oddesey
+The witness
 Chrono trigger
-Mario Oddesey
 Ori and the blind forest
-Darkwood
+Cultic
+It takes two
+A hat in time
 Shadow of the colossus
 Hades
-The witness
 Braid
 Ib
 Half life
+Patricks parabox
 Kaze and the wild masks
 The last of us: Part 2
+Diddy kong racing
 Little nightmares
 Hotline miami 2
-Motorstorm
+Motorstorm !
 Talos principle
 Touhou: Luna Nights
 
@@ -94,6 +101,7 @@ The end is nigh
 Limbo
 Crypt of the necro dancer
 OMORI
+Outer wilds
 Timespinner
 Dark souls 2
 Little nightmares 2
@@ -101,12 +109,12 @@ The last guardian
 The last of us
 Ghostrunner
 Manifold garden
+Inscryption
 Heroes of Hammerwatch
 The pedestrian
-F-zero
+F-zero X
 Devil may cry 4
 Gorogoa
-Diddy kong racing
 Nitronic rush
 Ys: Oath of Felghana
 Yakuza 0
@@ -114,6 +122,7 @@ The Swapper
 Resident Evil 7
 Titan souls
 Lisa
+Nightmare of decay
 Yokus island express
 Record of lodoss: Deelit in Wonderland
 The pathless
@@ -121,9 +130,10 @@ Wario ware
 Wario ware: Smooth moves
 Painkiller
 Portal 1
+SUPERHOT
 Castlevania 4
-Rime
 Super Metroid
+Rime
 Half life 2
 Paper mario
 Super meat boy
@@ -131,12 +141,13 @@ Assassins creed
 Bug fables
 God of war
 Gunfire reborn (EA)
-Bloodstained: CotM 2
 Ori and the will of the wisp
 Earthbound
 Deltarune
-Zelda: Windwaker
 Yoshis island
+Silent hill 2
+Zelda: Windwaker
+Happy game
 Lost Ember
 Kamiko
 Knightin' +
@@ -148,6 +159,7 @@ Swerve
 Destructivator
 Borderlands 1
 Borderlands 2
+Red dead redemption 2
 Just cause 2
 Horizon Zero dawn
 Mr Shifty
@@ -167,6 +179,7 @@ Amnesia
 Odallus
 Zelda: Twilight Princess
 Blood: Fresh Supply
+Risk of rain 2
 SSX
 Alwas awakening
 VVVVVV
@@ -174,6 +187,7 @@ Owlboy
 
 2:
 Inmost
+Silent hill
 Dying light
 Olija
 Brume
@@ -187,8 +201,11 @@ Grimms Hollow
 Unravel 2
 Deaths gambit
 Antichamber
+Bloodstained: CotM 2
 Brutal DOOM
 Gothic
+Aragami
+Silent hill 3
 Silent hill: Shattered memories
 Minoria
 Mario kart wii
@@ -210,6 +227,7 @@ Killzone
 Bordelands 3
 Out there somewhere
 The cat lady
+Metroid Dread
 Super mario bros U
 Bastion
 Detention
@@ -241,6 +259,7 @@ KEYBOARD DRUMSET FUCKING WEREWOLF - 3
 Helltaker - 3
 Dreader - 3
 Frame of mind - 2
+Toree 3D - 2
 PEPSI MAAAAAAN - 2
 Sun wukong vs robots - 2
 Moirai - 2
@@ -249,6 +268,12 @@ Hero RPG - 2
 Alchemists castle - 1
 
 
+Unbeatable:
+Minesweeper - 3
+Terror squid - 3
+Vampire survivors - 2
+Nintendogs - 2
+
 ?:
 Gothic 3
 Chzo mythos
@@ -256,6 +281,8 @@ Fable
 Sonic adventure
 Gun
 Return to sector 9
+Ratchet and Clank
+House of the dead: Overkill
 
 
 PVP -:
@@ -270,14 +297,24 @@ Heroes of might and magic - 3
 Rocket league - 3
 GG Strive - 3
 Overwatch - 3
+Smash Ultimate - 3
+Smash 4 - 3
 Paladins - 3
 Among us - 2
+Smash brawl - 2
 Pummel party - 2
 Dota - 2
 Golf with your friends - 1
+Smash melee - ?
+Smash 64 - ?
 
 
-X:
+Too powerful games (Cant run em good enough):
+Red dead redemption 2
+RE 8
+
+
+X (dropped):
 Reventure - X
 Halo - X
 Baba is you - X
@@ -362,23 +399,67 @@ Huntdown - X
 Super magbot - X
 Deaths door - X
 Valdis story - X
-Eldest souls - X
 West of loathing - X
-Astalon: Tears of the earth - X
 Toodee and Topdee - X
 Intravenous - X
 Destiny - X
-Symphony of seven souls - X
 Momodora 1 - X
 Momodora 3 - X
 Madness: project nexus - X
 Bleed2 - X
 Castle in the clouds - X
+Hero siege - X
+Eldest souls - X
+Sable - X
+Sheepo - X
+Unsighted - X
+Flynn: Son of crimson - X
+Garlic - X
+The lightbringer - X
+Eastward - X
+Rogue noir - X
+FAITH - X
+Lycathorn - X
+Mundaun - X
+Transiruby - X
+Demon turf - X
+Solar ash - X
+Aeterna noctis - X
+12 minutes - X
+Praey for the gods - X
+Infernax - X
+Kharons crypt - X
+Tenchu - X
+Tormented souls - X
+Into the Underdusk - X
+Kiwi 64 - X
+Firewing 64 - X
+Papers please - X
+Roguelight - X
+Fatum betula - X
+Immortal mantis - X
+Mago - X
+Tres-bashers - X
+Hands of necromancy - X
+Donkey kong tropical freeze - X
+Terraria - X
+Iron lung - X
+Ashina: The red witch - X
+Disco elysium - X
+Fashion police squad - X
+Thymesia - X
+Cyber hook - X
+Frail hearts - X
+Red dead redemption - X
+Pacman world - X
+Ctrl Alt Ego - X
 
 Return of the obra dinn - X3
 SUPERHOT: Mind control delete - X3
+Prodeus - X3
 Super mario 3 - X3
 Into the breach - X3
+Nobody saves the world - X3
 Post Void - X3
 Assassinss creed 2 - X3
 Until dawn - X3
@@ -386,6 +467,7 @@ Nowhere patrol - X3
 Veer - X3
 Ether Loop - X3
 Batbarian - X3
+Astalon: Tears of the earth - X3
 Gunpoint - X2
 Dustforce - X2
 Bone apetit - X2
@@ -403,6 +485,7 @@ Persona 5 - X2
 Wildfire - X2
 Metal Gear Solid - X2
 Slime-san - X2
+The witcher 3 - X2
 Sea Salt - X2
 The adventures of van helsing - X2
 Into the fray - X2
@@ -417,6 +500,7 @@ Super mario bros - X2
 Castlevania - X2
 Castlevania 3 - X2
 Khimera: Destroy All Monster Girls - X2
+Wario ware: Get it together - X2
 Megaman X - X2
 Duke nukem forever - X2
 Devil may cry 1 - X2
@@ -432,7 +516,9 @@ Deadbolt - X2
 Witcheye - X2
 The longing - X2
 Psychonauts - X2
+Tunic - X2
 Anodyne - X2
+Symphony of seven souls - X2
 Alan wake - X1
 Dragon age - X1
 Skautfold: Shrouded in sanity - X1
@@ -445,13 +531,7 @@ Overwhelm - X1
 Axiom verge - X1
 Systemshock - X1
 Grim dawn - X1
-
-
-Unbeatable:
-Nintendogs
-Minesweeper
-Terror squid
-
+Congo - X1
 
 
 --- DREAD X COLLEACTIONS ---
