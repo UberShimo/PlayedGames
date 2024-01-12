@@ -1,3 +1,4 @@
+
 X: Dropped
 1: Fuck this shit
 2: Eh..		(Pit people)
@@ -11,8 +12,8 @@ X: Dropped
 5:
 Dark Souls !
 Zelda: Ocarina of Time
-Hollow knight
-The messenger !
+Hollow Knight
+The Messenger !
 Shovel knight: Tresure trove
 Hyperlight drifter
 DUSK !
@@ -25,37 +26,38 @@ Castlevania: Dawn of Sorrow !
 Bloodborne !
 Devil may cry 3
 Hotline miami
+Cavern of Dreams!
 Undertale
 Dark Souls 3 !
 Furi
 
 4:
 My friend pedro
-Sekiro
 Momodora: Reverie under the Moonlight
 Katana Zero
-Elden ring
 Gato roboto !
 Castlevania: Portrait of ruin
+Devil may cry 5
 Demons Souls
+Neon white !
+Blasphemous 2
 Blasphemous
 Resident Evil 2 Remake
 Bloodstained: RotN
-Ittle dew
+Ittle dew !
 Cave story
+Cuphead
+Tunic
 Castlevania: Order of ecclesia
 Ender lilies !
 Celeste
-Devil may cry 5
 Minit!
 Amid evil
 Valfaris
 Zelda: a Link to the past
-Cuphead
 Mario 64 !
 The Treehouse Man
 Portal 2
-Neon white
 ElecHead !
 Banjo kazooie
 Zelda: Majoras mask
@@ -69,7 +71,6 @@ Darkwood
 Distance
 Ape out
 Doom (2016)
-Zelda: Breath of the wild
 Dead space
 Super Mario Oddesey
 The witness
@@ -77,19 +78,25 @@ Chrono trigger
 Ori and the blind forest
 Cultic
 It takes two
+Lunacid
 A hat in time
+Elden ring !
 Shadow of the colossus
-Hades
 Braid
 Ib
-Half life
 Patricks parabox
+Half life
+Pseudoregalia
+Taiji
+Hades
+Roboquest
+Sekiro
 Kaze and the wild masks
 The last of us: Part 2
 Diddy kong racing
 Little nightmares
 Hotline miami 2
-Motorstorm !
+Motorstorm: Pacific rift !
 Talos principle
 Touhou: Luna Nights
 
@@ -98,19 +105,27 @@ Kero blaster
 Desperados 3
 Thief 3: Deadly shadows
 The end is nigh
+Blood west
+Ember knights
 Limbo
 Crypt of the necro dancer
 OMORI
+Resident evil: Village
 Outer wilds
+Inscryption
+Infernax
 Timespinner
+Zelda: Breath of the wild
 Dark souls 2
+HROT
+Islets
 Little nightmares 2
 The last guardian
 The last of us
 Ghostrunner
 Manifold garden
-Inscryption
 Heroes of Hammerwatch
+Viewfinder
 The pedestrian
 F-zero X
 Devil may cry 4
@@ -140,12 +155,14 @@ Super meat boy
 Assassins creed
 Bug fables
 God of war
-Gunfire reborn (EA)
+Gunfire reborn
 Ori and the will of the wisp
 Earthbound
 Deltarune
 Yoshis island
 Silent hill 2
+Lone fungus
+Quake
 Zelda: Windwaker
 Happy game
 Lost Ember
@@ -204,6 +221,7 @@ Antichamber
 Bloodstained: CotM 2
 Brutal DOOM
 Gothic
+What remains of Edith Finch
 Aragami
 Silent hill 3
 Silent hill: Shattered memories
@@ -237,13 +255,18 @@ Super mario bros wii
 Pit people
 
 1:
+Zelda: Tears of the Trash
 Path of exile
 Doki doki
 
 
-Smaller games (under 2 hours-ish):
+Shorter games (under 2 hours-ish):
 Hero core - 4
+The Past Within - 4
+The Looker - 3
+Lunistice - 3
 A short hike - 3
+Pico Park
 SJ-19 learns how to love - 3
 Papetura - 3
 Mighty gunvolt - 3
@@ -255,16 +278,20 @@ Spooky ghosts dot com - 3
 Desktop dungeon - 3
 Escape from the underworld - 3
 Bullet audyssey - 3
+Grow Island - 3
 KEYBOARD DRUMSET FUCKING WEREWOLF - 3
 Helltaker - 3
 Dreader - 3
+Deep Sleep Triology - 2
 Frame of mind - 2
 Toree 3D - 2
 PEPSI MAAAAAAN - 2
 Sun wukong vs robots - 2
+Orbos Odyssey - 2
 Moirai - 2
 Lab 14 - 2
 Hero RPG - 2
+Residentvania - 2
 Alchemists castle - 1
 
 
@@ -283,23 +310,29 @@ Gun
 Return to sector 9
 Ratchet and Clank
 House of the dead: Overkill
+SSX Tricky
 
 
-PVP -:
+MULTIPLAYER:
 Rivals of aether - 5
+
 LoL - 4
 Quake champions - 4
-GG xrd rev 2 - 4
-Soul calibur 6 - 4
+Songs of Conquest - 4
+Soul Calibur - 4
+Soul calibur 6 - 3
+GG Strive - 3
+GG xrd rev 2 - 3
+Unreal Tournament - 3
 Battlerite - 3
 Duelyst - 3
 Heroes of might and magic - 3
 Rocket league - 3
-GG Strive - 3
 Overwatch - 3
 Smash Ultimate - 3
 Smash 4 - 3
 Paladins - 3
+Smash Melee - 2
 Among us - 2
 Smash brawl - 2
 Pummel party - 2
@@ -307,19 +340,12 @@ Dota - 2
 Golf with your friends - 1
 Smash melee - ?
 Smash 64 - ?
-
-
-Too powerful games (Cant run em good enough):
-Red dead redemption 2
-RE 8
+Age of Mythology - ?
 
 
 X (dropped):
 Reventure - X
-Halo - X
-Baba is you - X
-Outlast 2 - X
-Iconoclast - X
+Halo - X 
 Human fall flat - X
 Myst - X
 Yomawari - X
@@ -412,7 +438,6 @@ Hero siege - X
 Eldest souls - X
 Sable - X
 Sheepo - X
-Unsighted - X
 Flynn: Son of crimson - X
 Garlic - X
 The lightbringer - X
@@ -427,7 +452,6 @@ Solar ash - X
 Aeterna noctis - X
 12 minutes - X
 Praey for the gods - X
-Infernax - X
 Kharons crypt - X
 Tenchu - X
 Tormented souls - X
@@ -453,6 +477,40 @@ Frail hearts - X
 Red dead redemption - X
 Pacman world - X
 Ctrl Alt Ego - X
+Tinykin - X
+Frincess&cnight - X
+The Entropy centre - X
+Stay out of the House - X
+Deus Ex - X
+Astlibra Revision - X
+Signalis - X
+Card Shark - X
+Backpack Hero - X
+Will you snail? - X
+Last Command - X
+Yuppie Psycho - X
+Pizza Tower - X
+Moonleap - X
+The last campfire - X
+Boneraiser Minions - X
+The upturned - X
+Hyper Demon - X
+Beton Brutal - X
+Chained echoes - X
+Turbo Overkill - X
+Cassette Beasts - X
+Gunbrella - X
+Sea of stars - X
+The case of the golden idol - X
+World of horror - X
+Laika: Aged through blood - X
+Slay the Princess - X
+Fear & Hunger 2: Termina - X
+Sanabi - X
+Rain World - X
+Astral ascent - X
+Tevi - X
+Zortch - X
 
 Return of the obra dinn - X3
 SUPERHOT: Mind control delete - X3
@@ -460,11 +518,23 @@ Prodeus - X3
 Super mario 3 - X3
 Into the breach - X3
 Nobody saves the world - X3
+Rogue lagacy 2 - X3
+Unsighted - X3
 Post Void - X3
+Hi-Fi Rush - X3
+Vernal Edge - X3
+Sifu - X3
+Baba is you - X3
+Iconoclast - X3
 Assassinss creed 2 - X3
+Spark the electric jester - X3
+Talos principle 2 - X3
+Bomb Rush Cyberfunk - X3
 Until dawn - X3
 Nowhere patrol - X3
+Chop goblins - X3
 Veer - X3
+Sludge life - X3
 Ether Loop - X3
 Batbarian - X3
 Astalon: Tears of the earth - X3
@@ -473,15 +543,19 @@ Dustforce - X2
 Bone apetit - X2
 Wizard of legend - X2
 Slain - X2
+The Last Faith - X2
 Yooka Laylee - X2
 CrossCode - X2
+Hell pie - X2
 Darkest dungeon - X2
+Nightmare Reaper - X2
 Punchout - X2
 Zelda: Phantom hourglass - X2
 Prodigal - X2
 Filament - X2
 Nioh - X2
 Persona 5 - X2
+Outlast 2 - X2
 Wildfire - X2
 Metal Gear Solid - X2
 Slime-san - X2
@@ -494,14 +568,16 @@ Mark of the ninja - X2
 Teleglitch - X2
 Spore - X2
 Moonlighter - X2
-Children of morta - X2
 Lucah - X2
+Salt and Sanctuary - X2
 Super mario bros - X2
 Castlevania - X2
 Castlevania 3 - X2
 Khimera: Destroy All Monster Girls - X2
+Flipwitch - X2
 Wario ware: Get it together - X2
 Megaman X - X2
+Bramble - X2
 Duke nukem forever - X2
 Devil may cry 1 - X2
 Soma - X2
@@ -516,9 +592,9 @@ Deadbolt - X2
 Witcheye - X2
 The longing - X2
 Psychonauts - X2
-Tunic - X2
 Anodyne - X2
 Symphony of seven souls - X2
+Micetopia - X1
 Alan wake - X1
 Dragon age - X1
 Skautfold: Shrouded in sanity - X1
@@ -530,48 +606,39 @@ Prometheus - X1
 Overwhelm - X1
 Axiom verge - X1
 Systemshock - X1
+Guild wars 2 - X1
+Cuckold simulator - X1
 Grim dawn - X1
 Congo - X1
 
 
---- DREAD X COLLEACTIONS ---
 
-Dread X collection: (- 1)
-Summer night - 3
-The pay is nice - X2
-Carthanc - X1
-Mr bucket told me to - X1
-Hand of doom - 1
-The pony factory - X1
-Outsiders - X
-Shatter - 1
-Rotgut - 1
-Dont go out - 2
-
-Dread X collection 2: (- 2)
-Another late night - X1
-Arcadletra - 2
-Charlottes exile - X
-Solipsis - 2
-Squirrel stapler - X1
-Sucker for love - 3
-The diving bell - X1
-The thing in the lake - X1
-The toy shop - X
-The end of days - X2
-Touched by an outer god - 1
-Undiscovered - 1
-
-Dread X collection 3: (- 3)
-Bete grise - 1
-Bubbo: Adventure on Geralds island - 3
-Chips tips - 3
-Disparity of the Dead - X1
-Eden: Garden of the faultless - X1
-Matter over mind - X2
-Nice screams at unfair - 1
-Reactor - 3
-Sato wonderland - 3
-Soul waste - X1
-Spook ware @ the video store - 4
-Submission - 2
+--- GOTY ---
+2023: Cavern of Dreams
+2022: Neon White
+2021: Everhood
+2020: Hades
+2019: My Friend Pedro
+2018: The Messenger
+2017: Hollow Knight
+2016: Hyper Light Lrifter
+2015: Bloodborne
+2014: Shovel Knight
+2013: Ittle Dew
+2012: Hotline miami
+2011: Dark souls
+2010: Super Meat Boy
+2009: Demons souls
+2008: Castlevania: Order of Ecclesia
+2007: Mario Galaxy
+2006: Castlevania: Portrait of Ruin
+2005: Castlevania: Dawn of Sorrow
+2004: Cave Story
+2003: Castlevania: Aria of Sorrow
+2002: Mario Sunshine
+2001: Conkers Bad Fur Day
+2000: Zelda: Majoras Mask
+1999: Unreal Tournament
+1998: Zelda: Ocarina of time
+1997: Diddy Kong Racing
+1996: Mario 64
